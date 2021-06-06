@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"fr.projetpoo.v2","l":"AllSymbol"},{"p":"fr.projetpoo.v2","l":"Board"},{"p":"fr.projetpoo.v2","l":"Colors"},{"p":"fr.projetpoo.v2","l":"Game"},{"p":"fr.projetpoo.v2","l":"Main"},{"p":"fr.projetpoo.v2","l":"Node"},{"p":"fr.projetpoo.v2","l":"Pawn"},{"p":"fr.projetpoo.v2","l":"Player"}];updateSearchResults();
